@@ -2,4 +2,4 @@
 
 ## About Me
 saya adalah siswa *SMKN 1 Purwosari*
-![ZENN]https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white
+![zenn]https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
